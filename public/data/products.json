@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "IPhone",
+    "price": "800",
+    "img":
+      "https://ss7.vzw.com/is/image/VerizonWireless/apple_iPhoneSE_Gld?$device-lg$"
+  },
+  {
+    "id": 2,
+    "name": "Samsung",
+    "price": "600",
+    "img":
+      "http://d2pa5gi5n2e1an.cloudfront.net/global/images/product/mobilephones/Samsung_Galaxy_J7_Pro/Samsung_Galaxy_J7_Pro_L_1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sony",
+    "price": "700",
+    "img":
+      "http://d2pa5gi5n2e1an.cloudfront.net/global/images/product/mobilephones/Sony_Xperia_XA1/Sony_Xperia_XA1_L_1.jpg"
+  }
+]
