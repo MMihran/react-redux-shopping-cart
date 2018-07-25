@@ -22,7 +22,7 @@ html {
   justify-content: center;
   align-items: center;
   overflow: hidden;
-  margin-bottom: 0;
+  margin-bottom: 30px;
 }
 .product .img-wrap {
   height: 300px;

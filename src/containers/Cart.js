@@ -5,7 +5,7 @@ import { removeFromCart, changeCount } from "../actions/productActions";
 import CartItem from "../components/CartItem";
 class Cart extends Component {
   state = {
-    cartStatus: "cart-wrap show"
+    cartStatus: "cart-wrap"
   };
 
   toggleCart = () => {
